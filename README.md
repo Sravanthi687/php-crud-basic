@@ -41,3 +41,6 @@ This is the **Basic** version of the Advanced PHP CRUD application. It demonstra
 - `manage_users.php`: Admin-only view to list users.
 - `edit_user.php`: Admin-only view to edit user data.
 - `delete_user.php`: Admin-only script to delete a user.
+
+- #DEMO VIDEO:
+- https://www.linkedin.com/posts/sravanthi-v-880002415_apexplanet-webdevelopment-php-activity-7474305187323494400-2__v?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGmKomAB9pHnMjdMezEoRyLTMuniH02ChZE
